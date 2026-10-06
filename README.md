@@ -2,7 +2,7 @@
 
 **MSc Data Science · University of East London · Graduated May 2025**
 
-I’m Ruturajsinh Zala, an MSc Data Science graduate from the University of East London (May 2025), building **Root2Raj**, my AI-assisted data science and data architecture portfolio.
+I’m **Ruturajsinh Zala**, known online by my coding username **Root2Raj**. I graduated with an MSc in Data Science from the University of East London in May 2025. This is my personal portfolio of AI-assisted data science and data architecture projects.
 
 Each project keeps the business question, working analysis, validation checks and limitations together. People searching for **Ruturaj Zala** can find my work here under my full name, Ruturajsinh Zala.
 
