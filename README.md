@@ -14,16 +14,16 @@ Each project keeps the business question, working analysis, validation checks an
 
 | Project | Real-data evidence |
 |---|---|
-| [NYC taxi lakehouse](https://github.com/ruturaj1zala123-source/root2raj-nyc-taxi-lakehouse) · [Case study](https://root2raj.ruturaj1zala123.chatgpt.site/projects/nyc-taxi-lakehouse/) | 2,964,624 source trips; dimensional marts, explicit quarantine, provenance and atomic replay checks. |
-| [Electricity quality platform](https://github.com/ruturaj1zala123-source/root2raj-energy-quality-platform) · [Case study](https://root2raj.ruturaj1zala123.chatgpt.site/projects/energy-quality-platform/) | 2,075,259 minute readings; unit contracts, missing-data coverage, transactional monthly upserts and rollback tests. |
+| [NYC taxi lakehouse](https://github.com/Root2Raj-Zala/root2raj-nyc-taxi-lakehouse) · [Case study](https://root2raj.ruturaj1zala123.chatgpt.site/projects/nyc-taxi-lakehouse/) | 2,964,624 source trips; dimensional marts, explicit quarantine, provenance and atomic replay checks. |
+| [Electricity quality platform](https://github.com/Root2Raj-Zala/root2raj-energy-quality-platform) · [Case study](https://root2raj.ruturaj1zala123.chatgpt.site/projects/energy-quality-platform/) | 2,075,259 minute readings; unit contracts, missing-data coverage, transactional monthly upserts and rollback tests. |
 
 ### Data science
 
 | Project | Evaluation that can be inspected |
 |---|---|
-| [Bike demand forecasting](https://github.com/ruturaj1zala123-source/root2raj-bike-demand-forecast) · [Case study](https://root2raj.ruturaj1zala123.chatgpt.site/projects/bike-demand-forecast/) | Real daily rentals; chronological one-day backtests, future-data leakage tests, baselines and measured uncertainty coverage. |
-| [Bank response and model risk](https://github.com/ruturaj1zala123-source/root2raj-bank-response-model) · [Case study](https://root2raj.ruturaj1zala123.chatgpt.site/projects/bank-response-model/) | 41,188 campaign records; separate model selection, calibration and test blocks, with distribution shift reported openly. |
-| [Retail operations analysis](https://github.com/ruturaj1zala123-source/root2raj-retail-operations) · [Case study](https://root2raj.ruturaj1zala123.chatgpt.site/projects/retail-operations/) | 541,909 invoice lines; cancellation credits, customer coverage and Python/SQL reconciliation checks. |
+| [Bike demand forecasting](https://github.com/Root2Raj-Zala/root2raj-bike-demand-forecast) · [Case study](https://root2raj.ruturaj1zala123.chatgpt.site/projects/bike-demand-forecast/) | Real daily rentals; chronological one-day backtests, future-data leakage tests, baselines and measured uncertainty coverage. |
+| [Bank response and model risk](https://github.com/Root2Raj-Zala/root2raj-bank-response-model) · [Case study](https://root2raj.ruturaj1zala123.chatgpt.site/projects/bank-response-model/) | 41,188 campaign records; separate model selection, calibration and test blocks, with distribution shift reported openly. |
+| [Retail operations analysis](https://github.com/Root2Raj-Zala/root2raj-retail-operations) · [Case study](https://root2raj.ruturaj1zala123.chatgpt.site/projects/retail-operations/) | 541,909 invoice lines; cancellation credits, customer coverage and Python/SQL reconciliation checks. |
 
 Every repository includes reproducible code, actual results, source attribution and limitations. The newer projects include model cards or architecture runbooks, meaningful failure/leakage tests and automated verification workflows.
 
