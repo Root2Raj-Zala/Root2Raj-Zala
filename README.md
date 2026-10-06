@@ -6,7 +6,7 @@ I’m Ruturajsinh Zala, an MSc Data Science graduate from the University of East
 
 Each project keeps the business question, working analysis, validation checks and limitations together. People searching for **Ruturaj Zala** can find my work here under my full name, Ruturajsinh Zala.
 
-[Root2Raj data analytics portfolio](https://root2raj.ruturaj1zala123.chatgpt.site/) · [About Ruturajsinh Zala](https://root2raj.ruturaj1zala123.chatgpt.site/about/) · [LinkedIn](https://www.linkedin.com/in/ruturajsinh-zala-1820a7278)
+[Root2Raj data analytics portfolio](https://root2raj.ruturaj1zala123.chatgpt.site/) · [About Ruturajsinh Zala](https://root2raj.ruturaj1zala123.chatgpt.site/about/) · [LinkedIn](https://www.linkedin.com/in/ruturajsinh-zala-b11392157)
 
 ## Featured work
 
@@ -25,6 +25,6 @@ The implementation uses AI assistance. This is public-data portfolio work, not c
 
 ## Connect
 
-[Ruturajsinh Zala on LinkedIn](https://www.linkedin.com/in/ruturajsinh-zala-1820a7278)
+[Ruturajsinh Zala on LinkedIn](https://www.linkedin.com/in/ruturajsinh-zala-b11392157)
 
 Exploring remote opportunities in data and analytics, subject to location and hiring eligibility.
