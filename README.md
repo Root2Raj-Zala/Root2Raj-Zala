@@ -31,6 +31,13 @@ Every repository includes reproducible code, actual results, source attribution 
 
 The implementation uses AI assistance. This is public-data portfolio work, not client work or employment experience.
 
+## Completed retail research extensions
+
+These extend the retail analysis, with public notebooks, constrained assumptions and reproducible evidence:
+
+- [Credit linkage under uncertainty](https://root2raj.ruturaj1zala123.chatgpt.site/projects/retail-credit-linkage/): eight capacity-constrained scenarios, coverage and timing sensitivity; candidate matches are not verified returns.
+- [Retail demand forecasting benchmark](https://root2raj.ruturaj1zala123.chatgpt.site/projects/retail-demand-forecasting/): training-only product selection, chronological evaluation, baseline comparisons and separate local/Kaggle results.
+
 ## Connect
 
 [Ruturajsinh Zala on LinkedIn](https://www.linkedin.com/in/ruturajsinh-zala-b11392157) · [Root2Raj on Kaggle](https://www.kaggle.com/ruturajsinhzala)
