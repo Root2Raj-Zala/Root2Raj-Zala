@@ -33,6 +33,6 @@ The implementation uses AI assistance. This is public-data portfolio work, not c
 
 ## Connect
 
-[Ruturajsinh Zala on LinkedIn](https://www.linkedin.com/in/ruturajsinh-zala-b11392157) · [Root2Raj on Kaggle](https://www.kaggle.com/root2raj)
+[Ruturajsinh Zala on LinkedIn](https://www.linkedin.com/in/ruturajsinh-zala-b11392157) · [Root2Raj on Kaggle](https://www.kaggle.com/ruturajsinhzala)
 
 Exploring remote opportunities in data and analytics, subject to location and hiring eligibility.
