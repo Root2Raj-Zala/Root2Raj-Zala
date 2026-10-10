@@ -12,7 +12,7 @@ Each project keeps the business question, working analysis, validation checks an
 
 ### GridCast Trust Lab · Data Science + Architecture
 
-[Interactive planning lab and case study](https://root2raj.ruturaj1zala123.chatgpt.site/projects/gridcast-trust/) · [Code, notebook and evidence](https://github.com/Root2Raj-Zala/root2raj-gridcast-trust) · [Passing Linux reproduction](https://github.com/Root2Raj-Zala/root2raj-gridcast-trust/actions/runs/38046257686)
+[Interactive planning lab and case study](https://root2raj.ruturaj1zala123.chatgpt.site/projects/gridcast-trust/) · [Code, notebook and evidence](https://github.com/Root2Raj-Zala/root2raj-gridcast-trust) · [Public Kaggle notebook](https://www.kaggle.com/code/ruturajsinhzala/root2raj-gridcast-trust-lab) · [Passing Linux reproduction](https://github.com/Root2Raj-Zala/root2raj-gridcast-trust/actions/runs/38046257686)
 
 70,128 real GB electricity records; a 28-day input-availability policy, chronological model selection, uncertainty audits, planning scenarios and a transactional DuckDB warehouse. The frozen model reduced 2025 MAE by **8.15%** against its earlier-selected seasonal baseline. Its nominal 90% interval covered **79.18%** of the year and **22.50%** of high-demand days: the release review remains **HOLD**. Includes 14 real-data checks, 28 dedicated tests and independent SQL/CSV reconciliation. Revised historical snapshot; AI-assisted personal portfolio work.
 
