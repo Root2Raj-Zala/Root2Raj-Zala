@@ -6,9 +6,15 @@ I’m **Ruturajsinh Zala**, known online by my coding username **Root2Raj**. I g
 
 Each project keeps the business question, working analysis, validation checks and limitations together. People searching for **Ruturaj Zala** can find my work here under my full name, Ruturajsinh Zala.
 
-[Root2Raj data analytics portfolio](https://root2raj.ruturaj1zala123.chatgpt.site/) · [About Ruturajsinh Zala](https://root2raj.ruturaj1zala123.chatgpt.site/about/) · [All five case studies](https://root2raj.ruturaj1zala123.chatgpt.site/projects/) · [LinkedIn](https://www.linkedin.com/in/ruturajsinh-zala-b11392157)
+[Root2Raj data analytics portfolio](https://root2raj.ruturaj1zala123.chatgpt.site/) · [About Ruturajsinh Zala](https://root2raj.ruturaj1zala123.chatgpt.site/about/) · [All six case studies](https://root2raj.ruturaj1zala123.chatgpt.site/projects/) · [LinkedIn](https://www.linkedin.com/in/ruturajsinh-zala-b11392157)
 
 ## Featured work
+
+### GridCast Trust Lab · Data Science + Architecture
+
+[Interactive planning lab and case study](https://root2raj.ruturaj1zala123.chatgpt.site/projects/gridcast-trust/) · [Code, notebook and evidence](https://github.com/Root2Raj-Zala/root2raj-gridcast-trust) · [Passing Linux reproduction](https://github.com/Root2Raj-Zala/root2raj-gridcast-trust/actions/runs/38046257686)
+
+70,128 real GB electricity records; a 28-day input-availability policy, chronological model selection, uncertainty audits, planning scenarios and a transactional DuckDB warehouse. The frozen model reduced 2025 MAE by **8.15%** against its earlier-selected seasonal baseline. Its nominal 90% interval covered **79.18%** of the year and **22.50%** of high-demand days: the release review remains **HOLD**. Includes 14 real-data checks, 28 dedicated tests and independent SQL/CSV reconciliation. Revised historical snapshot; AI-assisted personal portfolio work.
 
 ### Data architecture
 
