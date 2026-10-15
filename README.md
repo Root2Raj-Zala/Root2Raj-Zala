@@ -6,9 +6,15 @@ I’m **Ruturajsinh Zala**, known online by my coding username **Root2Raj**. I g
 
 Each project keeps the business question, working analysis, validation checks and limitations together. People searching for **Ruturaj Zala** can find my work here under my full name, Ruturajsinh Zala.
 
-[Root2Raj data analytics portfolio](https://root2raj.ruturaj1zala123.chatgpt.site/) · [About Ruturajsinh Zala](https://root2raj.ruturaj1zala123.chatgpt.site/about/) · [All six case studies](https://root2raj.ruturaj1zala123.chatgpt.site/projects/) · [LinkedIn](https://www.linkedin.com/in/ruturajsinh-zala-b11392157)
+[Root2Raj data analytics portfolio](https://root2raj.ruturaj1zala123.chatgpt.site/) · [About Ruturajsinh Zala](https://root2raj.ruturaj1zala123.chatgpt.site/about/) · [All seven case studies](https://root2raj.ruturaj1zala123.chatgpt.site/projects/) · [LinkedIn](https://www.linkedin.com/in/ruturajsinh-zala-b11392157)
 
 ## Featured work
+
+### PolicyLab · Causal Evaluation + Data Architecture
+
+[Interactive evidence lab](https://root2raj.ruturaj1zala123.chatgpt.site/projects/policylab/) · [Code and evidence](https://github.com/Root2Raj-Zala/root2raj-policylab) · [Kaggle notebook](https://www.kaggle.com/code/ruturajsinhzala/root2raj-policylab) · [Passing Linux verification](https://github.com/Root2Raj-Zala/root2raj-policylab/actions/runs/38708504909)
+
+**4,530,676 real ZOZO recommendation impressions**, 34 actions and seven historical days. DM, IPS, SNIPS and doubly robust evaluation; chronological policy selection; overlap and clipping sensitivity; an interruption-safe Parquet/DuckDB warehouse. Thirty tests, independent real-row audits and a separate oracle simulation study. The reference-policy mismatch is unresolved and the paired improvement interval crosses zero: **HOLD**, with no claimed policy uplift or operational release. AI-assisted personal research.
 
 ### GridCast Trust Lab · Data Science + Architecture
 
